@@ -1,5 +1,7 @@
 # Kullanıcı Yönetim Uygulaması
 
+## Web Live Link: https://myapiuser.netlify.app/
+
 Bu proje, JSONPlaceholder API'sinden kullanıcı verilerini çekerek basit bir kullanıcı yönetim arayüzü sunan web uygulamasıdır.
 
 ## Özellikler
